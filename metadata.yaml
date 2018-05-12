@@ -38,6 +38,8 @@ description: "Trilby is a novel by George du Maurier and one of the most popular
   \ parts of the 20th century, before enjoying a revival as a unisex clothing item\
   \ in the United States in the 2000s.\nThe novel has been highly criticised for antisemitism\
   \ in its portrayal of the character Svengali.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32887#Trilbyana--The-Rise-and-Progress-of-a-Popular-Novel
 gutenberg_issued: '2010-06-19'
 gutenberg_type: Text
 identifiers:
